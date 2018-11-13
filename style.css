@@ -17,8 +17,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 .header {
@@ -26,7 +25,7 @@ body {
     text-align: center;
     margin: 20px;
     padding: 20px;
-    height: 40px;
+    /* height: 40px; */
 }
 
 .nav {
@@ -34,14 +33,14 @@ body {
     text-align: center;
     margin: 20px;
     padding: 20px;
-    height: 40px;
+    /* height: 40px; */
 }
 
 .section {
     background: #ebebeb;
     text-align: center;
     width: 48%;
-    height: 270px;
+    /* height: 270px; */
     margin: 20px;
     padding: 15px;
     float: left;
@@ -51,10 +50,10 @@ body {
     background: #ebebeb;
     text-align: center;
     width: 37%;
-    height: 270px;
+    height: 320px;
     margin: 20px;
     padding: 15px;
-    display: inline-block;
+    float: right;
 }
 
 .article {
@@ -62,7 +61,7 @@ body {
     color: #ebebeb;
     text-align: center;
     width: 95%;
-    height: 210px;
+    /* height: 210px; */
     margin: 10px;
     padding:5px;
 }
@@ -71,7 +70,7 @@ body {
     background: #ebebeb;
     text-align: center;
     width: 95%;
-    height: 55px;
+    /* height: 55px; */
     margin: 7.5px;
     padding: 2.5px;
     color: #777;
@@ -81,7 +80,7 @@ body {
     background: #ebebeb;
     text-align: center;
     width: 95%;
-    height: 55px;
+    /* height: 55px; */
     margin: 7.5px;
     padding: 2.5px;
     color: #777;
@@ -92,5 +91,9 @@ body {
     text-align: center;
     margin: 20px;
     padding: 20px;
-    height: 40px;
+    /* height: 40px; */
+
+}
+.clearfix {
+    clear: both;
 }
