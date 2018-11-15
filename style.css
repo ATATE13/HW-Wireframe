@@ -23,26 +23,26 @@ body {
 .header {
     background: #ebebeb;
     text-align: center;
-    margin: 20px;
-    padding: 20px;
+    margin: 15px;
+    padding: 15px;
     /* height: 40px; */
 }
 
 .nav {
     background: #ebebeb;
     text-align: center;
-    margin: 20px;
-    padding: 20px;
+    margin: 15px;
+    padding: 15px;
     /* height: 40px; */
 }
 
 .section {
     background: #ebebeb;
     text-align: center;
-    width: 48%;
+    width: 52.5%;
     /* height: 270px; */
-    margin: 20px;
-    padding: 15px;
+    margin: 15px;
+    padding: 10px;
     float: left;
 }
 
@@ -51,8 +51,8 @@ body {
     text-align: center;
     width: 37%;
     height: 320px;
-    margin: 20px;
-    padding: 15px;
+    margin: 15px;
+    padding: 10px;
     float: right;
 }
 
@@ -89,8 +89,8 @@ body {
 .footer {
     background: #ebebeb;
     text-align: center;
-    margin: 20px;
-    padding: 20px;
+    margin: 10px;
+    padding: 10px;
     /* height: 40px; */
 
 }
